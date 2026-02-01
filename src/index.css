@@ -10,11 +10,11 @@
 
 :root {
   --main-bg: #ffffff; /* White for light mode */
-  --main-text: #1e293b;
+  --main-text: #010205;
 }
 
 .dark {
-  --main-bg: #0f172a; /* Dark blue/black for dark mode */
+  --main-bg: #000000; /* Dark blue/black for dark mode */
   --main-text: #f8fafc;
 }
 
