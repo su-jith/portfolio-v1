@@ -20,25 +20,25 @@ const ScrollReveal = ({ children, delay = 0 }) => (
 
 const projects = [
   {
-    title: "E-Commerce Platform",
-    description: "A full-stack shop with Stripe integration and a custom admin dashboard.",
-    tags: ["React", "Node.js", "MongoDB"],
+    title: "E-village portal",
+    description: "A full-stack MERN webapp to streamline the process of village administration.",
+    tags: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "#",
     live: "#"
   },
   {
-    title: "Task Management AI",
-    description: "AI-powered task organizer that prioritizes your day based on deadlines.",
-    tags: ["Next.js", "OpenAI", "Tailwind"],
-    github: "#",
-    live: "#"
+    title: "Task Management App",
+    description: "A MERN powered task organizer that prioritizes your day based on deadlines.",
+    tags: ["Next.js", "React", "MongoDB", "Tailwind"],
+    github: "https://github.com/su-jith/to-do-app-v1",
+    live: "https://to-do-app-v1-seven.vercel.app/"
   },
   {
     title: "Portfolio v2",
     description: "The very site you are looking at! Focused on performance and clean UI.",
     tags: ["Vite", "React", "Framer Motion"],
-    github: "#",
-    live: "#"
+    github: "https://github.com/su-jith/portfolio-v1",
+    live: "https://portfolio-v1-omega-blush.vercel.app/"
   }
 ];
 
